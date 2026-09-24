@@ -5,16 +5,23 @@ Key topics covered:
 
 - Symmetric encryption
 - Asymmetric encryption
-- Key usage for asymmetric and symmetric encryption
+- Key usage for symmetric and asymmetric encryption
 - Password hashing
 - Sensitive data management and security
 
-Password manager
+Password managers
 
-- Built a password manager to store customer login, debit card and personal information
+- Built a password managers to store customer login, debit card and personal information
 - Implemented authenticated symmetric encryption to protect user identity and debit card data
 - Supported user authentication by implementing Passlib, bcrypt password hashing along with
   SHA-256 cryptographic hashing
 - Applied OOP to ensure structured and maintainable code
-- Displayed encrypted and decrypted data by implementing formatted console output   
+- Displayed encrypted and decrypted data by implementing formatted console output
+
+Tech stack:
+
+- Python (OOP, formatted console output, data types)
+- Cryptography.Fernet (authenticated symmetric encryption)
+- Passlib, bcrypt (password hashing)
+- SHA-256 (cryptographic hashing)
     
