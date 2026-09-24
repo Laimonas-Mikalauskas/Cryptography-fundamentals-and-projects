@@ -1,4 +1,4 @@
-# Cryptography-fundamentals-and-projects
+# Data encryption fundamentals-and-projects
 This repository contains a data encryption and password hashing fundamentals and its implementation by developing a simple password manager that secures sensitive information
 
 Key topics covered:
