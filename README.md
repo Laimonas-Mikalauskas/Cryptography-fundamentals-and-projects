@@ -16,7 +16,8 @@ Password managers
 - Supported user authentication by implementing Passlib, bcrypt password hashing along with
   SHA-256 cryptographic hashing
 - Applied OOP to ensure structured and maintainable code
-- Displayed encrypted and decrypted data by implementing formatted console output
+- Applied core Python data types within OOP classes for password-data management and implemented formatted console output to present processed data in the terminal.
+
 
 Tech stack:
 
