@@ -16,7 +16,7 @@ This repository contains a data encryption and password hashing fundamentals and
 - Supported user authentication by implementing Passlib, bcrypt password hashing along with
   SHA-256 cryptographic hashing
 - Applied OOP to ensure structured and maintainable code
-- Applied core Python data types within OOP classes for password-data management and implemented formatted console output to display processed data in the terminal.
+- Applied core Python data types within OOP classes for password-data management and implemented formatted console output to display data in the terminal.
 
 
 # Tech stack:
