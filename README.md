@@ -6,6 +6,8 @@ This repository contains a data encryption and password hashing fundamentals and
 - Symmetric encryption
 - Asymmetric encryption
 - Key usage for symmetric and asymmetric encryption
+- Substitution
+- Transposition
 - Password hashing
 - Sensitive data management and security
 
