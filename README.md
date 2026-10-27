@@ -12,9 +12,9 @@ This repository contains a data encryption and password hashing fundamentals and
 - Password hashing
 - Sensitive data management and security
 
-# Password managers
+# Password manager
 
-- Built a password managers to store customer login, debit card and personal information
+- Built a password manager to store customer login, debit card and personal information
 - Implemented authenticated symmetric encryption to protect user identity and debit card data
 - Supported user authentication by implementing Passlib, bcrypt password hashing along with
   SHA-256 cryptographic hashing
